@@ -2,7 +2,7 @@
 <style>
 body {
   font-family: Arial, sans-serif;
-  background-color: pink;
+  background-color: white;
 }
 
 h1, h2, h3 {
