@@ -22,7 +22,7 @@ a {
 
 <hr color="black">
 
-## Problem 1: Worst Sorting Algorithm ever!
+## Problem 1: Worst Sorting Algorithm ever!!
 Imagine yourself a nerd studying in Indian institute of Programming and Coding (IIPC). And you got your first internship in Microogle under Sundar Nadela and was asked to implement your favourite sorting algorithm. But since you are first year student, you are deemed to write a fuzzy and complex logical code whose execution time is damn high. 
 <hr color="black">
 

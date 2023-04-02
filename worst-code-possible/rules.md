@@ -33,12 +33,14 @@ p {
 
 # Specific Rules and Guidelines for the Hackathon.
 
-
+<p> 
+No coding (just pseudo code)
+</p>
 <p>
 
 - The answers will be checked based on the involvement of following conditions:
     - Overly complex logic.
-    - Unnecessary long and convoluted functions.
+    - Long and convoluted functions.
     - Long execution time.
 2. Marks will be deducted in case we found your code have unnecessary loops, variables and conditions. 
 
