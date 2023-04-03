@@ -23,7 +23,7 @@ Coding not required (just pseudo code is enough)
     
 2. Marks will be deducted in case we found your code have unnecessary loops, variables and conditions.
 3. Time complexity should be constant 
-
+4. Special prize is only for the code which is the worst one out of the lot.
 
 
 # For those who love us and will code:
