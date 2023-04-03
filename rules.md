@@ -1,26 +1,8 @@
-<style>
-body {
-  font-family: Arial, sans-serif;
-  background-color: white;
-}
-
-h1, h2, h3 {
-  color: black;
-}
-
-p {
-  color: black;
-}
-/* other styling rules */
-  .poster {
-    max-height: 100vh;
-  }
-</style>
 
 # General Rules and Guidelines.
-<hr color="black">
 
-<p>
+
+
 
 1. The event is **3 hours** long on **2nd April, 9pm - 12pm**. It has been a tradition to increase the time limit later, but this is the official time for now.
 
@@ -28,15 +10,11 @@ p {
 
 
 
-</p>
-
 
 # Specific Rules and Guidelines for the Hackathon.
 
-<p> 
 No coding (just pseudo code)
-</p>
-<p>
+
 
 - The answers will be checked based on the involvement of following conditions:
     - Overly complex logic.
@@ -44,9 +22,7 @@ No coding (just pseudo code)
     - Long execution time.
 2. Marks will be deducted in case we found your code have unnecessary loops, variables and conditions. 
 
-3. 
 
-</p>
 
 # For those who love us and will code:
   1. You may use any language of your choice. You may also use different languages for different questions. But you should know that questions were made with Python in mind.
