@@ -1,8 +1,8 @@
 
 # Welcome to "A Wannable Hackathon"
 
-
-### [ Click here for Rules ](./rules)
+![poster](.assets/poster.png)
+### ![ Click here for Rules ](./rules)
 
 
 
