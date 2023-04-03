@@ -24,7 +24,7 @@ Coding not required (just pseudo code is enough)
 2. Marks will be deducted in case we found your code have unnecessary loops, variables and conditions.
 3. Time complexity should be constant 
 4. Special prize is only for the code which is the worst one out of the lot.
-
+5. To submit, name your file as, "TWH-[team-name]" and send it to the email id: "turingclub@iisermohali.ac.in"
 
 # For those who love us and will code:
   1. You may use any language of your choice. You may also use different languages for different questions. But you should know that questions were made with Python in mind.
