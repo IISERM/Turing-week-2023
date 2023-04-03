@@ -1,42 +1,25 @@
 
-
-<center> <img src = ".assets/poster.png" >
-
-<p style="margin-bottom: 4em"></p>
-
-<p style="margin-bottom: 4em"></p>
-
-<p style="margin-bottom: 4em"></p>
-
-# <center> Welcome to "A Wannable Hackathon"
-
-<p style="margin-bottom: 4em"></p>
-
+# Welcome to "A Wannable Hackathon"
 
 
 ### [ Click here for Rules ](./rules)
 
-<hr color="pink">
-<p style="margin-bottom: 2em"></p>
 
 
 ## Problem 1: Worst Sorting Algorithm ever!! `[30 marks]`
-<p style="margin-bottom: 2em"></p>
 
 
-<p>
+
+
 Imagine yourself a nerd studying in Indian institute of Programming and Coding (IIPC). And you got your first internship in Microogle under Sundar Nadela and was asked to implement your favourite sorting algorithm. But since you are first year student, you are deemed to write a fuzzy and complex logical code whose execution time is damn high. 
-</p>
-<p style="margin-bottom: 2em"></p>
 
-  <p> Define a function that take the list and return the sorted list (ascending order). </p>
+Define a function that take the list and return the sorted list (ascending order). 
 
-<p> Note: There is euqals weightage for execution time and complex logic used. So, just don't google the worst sorting algorithm (actually check that as well!!). </p>
+Note: There is euqals weightage for execution time and complex logic used. So, just don't google the worst sorting algorithm (actually check that as well!!). 
   
-<p style="margin-bottom: 2em"></p>
+
 
 *** 
-<p style="margin-bottom: 2em"></p>
 
 ## Problem 2: Preprocessing of Natural Language processing! `[10 marks]`
 
@@ -57,8 +40,7 @@ Input: `l2 = ['IISERM' , 'Director' , 'Srmc' , 'abSrc'] `
 
 Output: `False`
 
-<hr color="black">
-<p style="margin-bottom: 2em"></p>
+
 
 ## Problem 3: Nested list -> Square matrix: `30 marks`
 
@@ -70,12 +52,11 @@ Your job is to submit your code for including the padding of a nested list to ma
 
 Example: `nested_list = [[1, 2, 3], [4, 5,0], [6,0,0]]`
 
-<hr color="black">
 
 
 ## Problem 4: Prime Factors! `[20 marks]`
 
-<p style="margin-bottom: 2em"></p>
+
 
 
 Write a algorithm to obtain the list of prime factors of any input number taken from the user.
@@ -87,17 +68,13 @@ Output: `[2,2,3,3,7]`
 
 
 
-<p style="margin-bottom: 2em"></p>
 
-
-
-<hr color="black">
 
 
 
 
 ## Problem 5: Convolution it is!! `30 marks`
-<p style="margin-bottom: 2em"></p>
+
 
 Problem: Let A be an n x m matrix with entries $a_{i,j}$ and let K be a k x k kernel with entries $k_{i,j}$. Define the convolution of A with K to be the n-k+1 x m-k+1 matrix C with entries
 
@@ -139,8 +116,6 @@ $$
 107 & 120 & 123
 \end{array}\right)
 $$
-
-<p style="margin-bottom: 2em"></p>
 
 
 ***
