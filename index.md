@@ -1,7 +1,7 @@
 
 # Welcome to "A Wannable Hackathon"
 
-![poster](.assets/poster.png)
+![poster](./assets/poster.png)
 # ![ Click here for Rules ](./rules.md)
 
 
