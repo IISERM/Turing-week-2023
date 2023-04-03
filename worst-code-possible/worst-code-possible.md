@@ -42,15 +42,15 @@ a {
 <p style="margin-bottom: 2em"></p>
 
 
-<h3>
+<p>
 Imagine yourself a nerd studying in Indian institute of Programming and Coding (IIPC). And you got your first internship in Microogle under Sundar Nadela and was asked to implement your favourite sorting algorithm. But since you are first year student, you are deemed to write a fuzzy and complex logical code whose execution time is damn high. 
-</h3>
+</p>
 <p style="margin-bottom: 2em"></p>
 
-### Define a function that take the list and return the sorted list (ascending order).
+  <p> Define a function that take the list and return the sorted list (ascending order). </p>
 
-
-### Note: There is euqals weightage for execution time and complex logic used. So, just don't google the worst sorting algorithm (actually check that as well!!).
+<p> Note: There is euqals weightage for execution time and complex logic used. So, just don't google the worst sorting algorithm (actually check that as well!!). </p>
+  
 <p style="margin-bottom: 2em"></p>
 
 *** 
