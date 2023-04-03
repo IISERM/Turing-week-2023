@@ -1,5 +1,5 @@
 
-# Welcome to "A Wannable Hackathon"
+# Welcome to "A Wannabe Hackathon"
 
 ![poster](./assets/poster.png)
 # [ Click here for Rules ](./rules.md)
