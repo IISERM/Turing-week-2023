@@ -73,6 +73,7 @@ Output: `True`
 
 Input: `l2 = ['IISERM' , 'Director' , 'Srmc' , 'abSrc'] `
 
+Output: `False`
 
 <hr color="black">
 <p style="margin-bottom: 2em"></p>
